@@ -8,11 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal homepage. My name is David Basanta and I am an Associate Member at the [Integrated Mathematical Oncology department](https://moffitt.org/research-science/divisions-and-departments/quantitative-science/integrated-mathematical-oncology).
+Welcome to my personal homepage. My name is David Basanta and I am an Associate Member at the [Integrated Mathematical Oncology department](https://moffitt.org/research-science/divisions-and-departments/quantitative-science/integrated-mathematical-oncology). I am also [affiliated](https://moffitt.org/research-science/researchers/david-basanta-gutierrez/) with the Genitourinary department also at Moffitt and the department of [Oncologic Sciences at the University of South Florida](http://cancerbiology.usf.edu/).   
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.
 
 Create content & metadata
 ------
