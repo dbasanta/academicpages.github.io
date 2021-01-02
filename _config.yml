@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "David Basanta"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Associate Member/Professor"
   location         : "Tampa"
-  employer         :
+  employer         : "H. Lee Moffitt Cancer Center & Research Institute"
   googlescholar    : "https://scholar.google.com/citations?user=CgyEREgAAAAJ&hl=en"
   email            :
   uri              :
