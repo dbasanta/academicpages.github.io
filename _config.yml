@@ -6,12 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "David Basanta / Home Page"
+locale                   : "en"
+title                    : "David Basanta"
 title_separator          : "-"
 name                     : &name "David Basanta"
-description              : &description "personal description"
-url                      : https://basanta.org.es # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "home page"
+url                      : https://dbasanta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -86,7 +86,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=CgyEREgAAAAJ&hl=en"
   email            : "david [at] cancerevo [dot] org"
   github           : "dbasanta"
-  group            : "https://cancerecology.org"
+  group            : "https://CancerEcology.org"
   linkedin         : "https://www.linkedin.com/in/david-basanta-a65482197"
   orcid            : "https://orcid.org/0000-0002-8527-0776"
   twitter          : "dbasanta"
